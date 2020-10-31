@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/10/28 22:34:46.000.271,=C:\Users\mauricio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/28 22:37:19.000.652,C:\Users\mauricio\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\projetos\money-control\desktop\views\uVwPrincipal.dfm</Transaction>
+    <Transaction>2020/10/28 22:37:19.000.652,C:\Users\mauricio\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\projetos\money-control\desktop\views\uVwPrincipal.pas</Transaction>
+    <Transaction>2020/10/28 22:37:47.000.021,C:\Users\mauricio\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\projetos\money-control\desktop\moneycontrol.dproj</Transaction>
+    <Transaction>2020/10/28 23:11:05.000.017,=C:\projetos\money-control\desktop\Unit1.pas</Transaction>
+    <Transaction>2020/10/28 23:15:16.000.442,C:\projetos\money-control\desktop\Unit1.pas=C:\projetos\money-control\desktop\database\uDataModule.pas</Transaction>
+    <Transaction>2020/10/28 23:15:16.000.442,C:\projetos\money-control\desktop\Unit1.dfm=C:\projetos\money-control\desktop\database\uDataModule.dfm</Transaction>
+    <Transaction>2020/10/28 23:18:09.000.134,=C:\projetos\money-control\desktop\Unit2.pas</Transaction>
+    <Transaction>2020/10/28 23:18:20.000.358,C:\projetos\money-control\desktop\Unit2.pas=C:\projetos\money-control\desktop\views\uGrupoAtivo.pas</Transaction>
+    <Transaction>2020/10/28 23:18:20.000.358,C:\projetos\money-control\desktop\Unit2.dfm=C:\projetos\money-control\desktop\views\uGrupoAtivo.dfm</Transaction>
+    <Transaction>2020/10/28 23:21:07.000.226,C:\projetos\money-control\desktop\views\uGrupoAtivo.dfm=C:\projetos\money-control\desktop\views\uVwGrupoAtivo.dfm</Transaction>
+    <Transaction>2020/10/28 23:21:07.000.226,C:\projetos\money-control\desktop\views\uGrupoAtivo.pas=C:\projetos\money-control\desktop\views\uVwGrupoAtivo.pas</Transaction>
+    <Transaction>2020/10/28 23:23:07.000.595,=C:\projetos\money-control\desktop\Unit1.pas</Transaction>
+    <Transaction>2020/10/28 23:23:44.000.056,C:\projetos\money-control\desktop\Unit1.pas=C:\projetos\money-control\desktop\interfaces\interfaces.uGrupoAtivo.pas</Transaction>
+    <Transaction>2020/10/30 20:57:00.189,=C:\projetos\money-control\desktop\interfaces\interfaces.uModGrupoAtivo.pas</Transaction>
+    <Transaction>2020/10/30 20:57:22.881,=C:\projetos\money-control\desktop\models\models.uGrupoAtivo.pas</Transaction>
+    <Transaction>2020/10/30 21:03:15.252,=C:\projetos\money-control\desktop\Unit2.pas</Transaction>
+    <Transaction>2020/10/30 21:04:00.734,C:\projetos\money-control\desktop\interfaces\interfaces.uModGrupoAtivoFilho.pas=C:\projetos\money-control\desktop\Unit2.pas</Transaction>
+    <Transaction>2020/10/30 21:24:06.000.233,=C:\projetos\money-control\desktop\Unit1.pas</Transaction>
+    <Transaction>2020/10/30 21:26:17.000.503,C:\projetos\money-control\desktop\Unit1.pas=C:\projetos\money-control\desktop\factories\factories.uGrupoAtivo.pas</Transaction>
+    <Transaction>2020/10/30 21:31:39.000.018,=C:\projetos\money-control\desktop\Unit1.pas</Transaction>
+    <Transaction>2020/10/30 21:34:06.000.441,C:\projetos\money-control\desktop\Unit1.pas=C:\projetos\money-control\desktop\services\services.uGrupoAtivo.pas</Transaction>
+    <Transaction>2020/10/30 21:35:03.000.737,=C:\projetos\money-control\desktop\Unit1.pas</Transaction>
+    <Transaction>2020/10/30 21:39:37.000.351,=C:\projetos\money-control\desktop\Unit2.pas</Transaction>
+    <Transaction>2020/10/30 21:42:30.000.981,=C:\projetos\money-control\desktop\interfaces.pas</Transaction>
+    <Transaction>2020/10/30 21:43:34.000.725,c:\projetos\money-control\desktop\interfaces.pas=C:\projetos\money-control\desktop\interfaces\interfaces.uModGrupoAtivo.pas</Transaction>
+    <Transaction>2020/10/30 21:45:03.000.615,C:\projetos\money-control\desktop\Unit1.pas=C:\projetos\money-control\desktop\models\models.uGrupoAtivo.pas</Transaction>
+  </Transactions>
+</BorlandProject>
