@@ -1,0 +1,38 @@
+unit Models.uMovimentoRendaVariavel;
+
+interface
+
+uses
+  Interfaces.uMovimentoRendaVariavel, Interfaces.uCorretora;
+type
+  TMovimentoRendaVariavel = class(TInterfacedObject, IMovimentoRendaVariavelBase)
+    private
+      function GetCodigo: string;
+      procedure SetCodigo(const Value: string);
+
+      function GetDataMovimento: TDateTime;
+      procedure SetDataMovimento(const Value: TDateTime);
+
+      function GetTipoMovimento: TTipoMovimento;
+      procedure SetTipoMovimento(const Value: TTipoMovimento);
+
+      function GetQuantidadeMovimento: Real;
+      procedure SetQuantidadeMovimento(const Value: Real);
+
+      function GetCorretora: ICorretora;
+      procedure SetCorretora(const Value: ICorretora);
+    public
+      property Codigo: string read GetCodigo write SetCodigo;
+      property DataMovimento: TDateTime read GetDataMovimento write SetDataMovimento;
+      property TipoMovimento: TTipoMovimento read GetTipoMovimento write SetTipoMovimento;
+      property QuantidadeMovimento: Real read GetQuantidadeMovimento write SetQuantidadeMovimento;
+      property Corretora: ICorretora read GetCorretora write SetCorretora;
+
+
+
+  end;
+
+
+implementation
+
+end.

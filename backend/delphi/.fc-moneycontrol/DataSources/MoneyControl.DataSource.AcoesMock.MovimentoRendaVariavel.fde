@@ -1,0 +1,104 @@
+{
+    "isPersistent": true,
+    "bounds": [
+        0,
+        0,
+        0,
+        0,
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ]
+    ],
+    "entityType": "Entity",
+    "sourceLocation": "Project",
+    "selectStatement": "",
+    "isReadOnly": false,
+    "name": "MovimentoRendaVariavel",
+    "sourceName": "",
+    "guid": "{22998715-0D94-46FE-B247-78B72B4AA7F0}",
+    "fields": [
+        {
+            "name": "id",
+            "dataType": "AutoIncrement_",
+            "size": 0,
+            "defaultValue": "",
+            "sourceName": "",
+            "isPrimaryKeyField": true,
+            "isReadOnly": false,
+            "isCollection": false,
+            "precision": 0,
+            "scale": 0,
+            "position": 1,
+            "generator": "",
+            "guid": "{E013109D-F09D-4CD0-9B38-B5C2DD5E6DD5}"
+        },
+        {
+            "name": "codigo_ativo",
+            "dataType": "string_",
+            "size": 50,
+            "defaultValue": "",
+            "sourceName": "",
+            "isPrimaryKeyField": false,
+            "isReadOnly": false,
+            "isCollection": false,
+            "precision": 0,
+            "scale": 0,
+            "position": 2,
+            "generator": "",
+            "guid": "{59DB0FBC-057D-44AA-BF1B-6C08F53F6C42}"
+        },
+        {
+            "name": "tipo_movimento",
+            "dataType": "string_",
+            "size": 1,
+            "defaultValue": "",
+            "sourceName": "",
+            "isPrimaryKeyField": false,
+            "isReadOnly": false,
+            "isCollection": false,
+            "precision": 0,
+            "scale": 0,
+            "position": 3,
+            "generator": "",
+            "guid": "{1ED70134-B515-4621-B5C3-71FD4E3EE2EC}"
+        },
+        {
+            "name": "quantidade_movimento",
+            "dataType": "Decimal_",
+            "size": 0,
+            "defaultValue": "",
+            "sourceName": "",
+            "isPrimaryKeyField": false,
+            "isReadOnly": false,
+            "isCollection": false,
+            "precision": 0,
+            "scale": 0,
+            "position": 4,
+            "generator": "",
+            "guid": "{F8CB257D-402E-473C-9998-E3390BDF60EB}"
+        },
+        {
+            "name": "corretora_id",
+            "dataType": "Integer_",
+            "size": 0,
+            "defaultValue": "",
+            "sourceName": "",
+            "isPrimaryKeyField": false,
+            "isReadOnly": false,
+            "isCollection": false,
+            "precision": 0,
+            "scale": 0,
+            "position": 5,
+            "generator": "",
+            "guid": "{873508B4-1503-45BB-B2AF-144EFFEC2274}"
+        }
+    ],
+    "associations": [
+    ],
+    "datasource": "{AE73BA00-6AA6-4BA2-BDC0-4A1FFA7E39D9}"
+}

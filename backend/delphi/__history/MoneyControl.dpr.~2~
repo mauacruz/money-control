@@ -1,0 +1,15 @@
+program MoneyControl;
+
+uses
+  Vcl.Forms,
+  uVwMonitor in 'uVwMonitor.pas' {Form1},
+  Interfaces.uMovimentoRendaVariavel in 'Interfaces\Interfaces.uMovimentoRendaVariavel.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

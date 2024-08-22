@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/08/12 21:37:54.000.267,=C:\Users\mauacruz\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/12 21:38:26.000.688,C:\Users\mauacruz\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=D:\Projetos\money-control\backend\delphi\uVwMonitor.pas</Transaction>
+    <Transaction>2024/08/12 21:38:26.000.688,C:\Users\mauacruz\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=D:\Projetos\money-control\backend\delphi\uVwMonitor.dfm</Transaction>
+    <Transaction>2024/08/12 21:38:38.000.971,C:\Users\mauacruz\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=D:\Projetos\money-control\backend\delphi\MoneyControl.dproj</Transaction>
+    <Transaction>2024/08/13 20:24:08.000.935,=D:\Projetos\money-control\backend\delphi\Unit1.pas</Transaction>
+    <Transaction>2024/08/13 20:30:31.000.896,D:\Projetos\money-control\backend\delphi\Interfaces\Interfaces.uMovimentoRendaVariavel.pas=D:\Projetos\money-control\backend\delphi\Unit1.pas</Transaction>
+    <Transaction>2024/08/13 20:46:22.000.480,=D:\Projetos\money-control\backend\delphi\Unit1.pas</Transaction>
+    <Transaction>2024/08/13 20:46:57.000.091,D:\Projetos\money-control\backend\delphi\Interfaces\Interfaces.uCorretora.pas=D:\Projetos\money-control\backend\delphi\Unit1.pas</Transaction>
+    <Transaction>2024/08/13 21:36:36.000.916,=D:\Projetos\money-control\backend\delphi\Unit1.pas</Transaction>
+    <Transaction>2024/08/13 21:37:05.000.731,D:\Projetos\money-control\backend\delphi\Models\Models.uMovimentoRendaVariavel.pas=D:\Projetos\money-control\backend\delphi\Unit1.pas</Transaction>
+    <Transaction>2024/08/21 21:19:12.365,=D:\Projetos\money-control\backend\delphi\Unit1.pas</Transaction>
+    <Transaction>2024/08/21 21:19:51.857,D:\Projetos\money-control\backend\delphi\Utils\Utils.uContainerDefinition.pas=D:\Projetos\money-control\backend\delphi\Unit1.pas</Transaction>
+    <Transaction>2024/08/21 21:25:53.778,D:\Projetos\money-control\backend\delphi\Utils\Utils.uContainerDefinition.pas=</Transaction>
+    <Transaction>2024/08/21 21:26:30.931,=D:\Projetos\money-control\backend\delphi\Utils\Utils.uContainerDefinition.pas</Transaction>
+    <Transaction>2024/08/21 21:27:20.893,D:\Projetos\money-control\backend\delphi\Utils\Utils.uFactories.pas=D:\Projetos\money-control\backend\delphi\Utils\Utils.uContainerDefinition.pas</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Interfaces"/>
+    <File Path="Interfaces\Interfaces.uCorretora.pas"/>
+    <File Path="Interfaces\Interfaces.uMovimentoRendaVariavel.pas"/>
+    <File Path="Models"/>
+    <File Path="Models\Models.uMovimentoRendaVariavel.pas"/>
+    <File Path="Utils"/>
+    <File Path="Utils\Utils.uFactories.pas"/>
+    <File Path="uVwMonitor.pas"/>
+    <File Path="uVwMonitor.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

@@ -1,0 +1,28 @@
+{
+    "name": "MoneyControl",
+    "fileName": "MoneyControl.fcp",
+    "supportedLanguages": 1,
+    "projectVersion": "2.3.0",
+    "autorisationRoles": [
+    ],
+    "storageVersion": "2.3.0",
+    "datasources": [
+        {
+            "guid": "{AE73BA00-6AA6-4BA2-BDC0-4A1FFA7E39D9}",
+            "filePath": "MoneyControl.DataSource.AcoesMock.fds"
+        }
+    ],
+    "guid": "{D98215DE-A67F-4B83-ABBB-EEF8009762FC}",
+    "modules": [
+        {
+            "name": "Acoes",
+            "guid": "{14C23BFF-8C3D-4A90-B30C-5ECEBA9B5D7F}",
+            "FlowClasses": [
+                {
+                    "guid": "{404643DA-0A14-40F8-9514-6B5544C02022}",
+                    "filePath": "Acoes\\Acoes.Acoes.fsf"
+                }
+            ]
+        }
+    ]
+}

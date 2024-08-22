@@ -1,0 +1,10 @@
+{
+    "programName": "MoneyControl.dproj",
+    "guid": "{7BCA6757-9C03-4197-B013-7B451E557AA7}",
+    "projects": [
+        {
+            "name": "MoneyControl",
+            "projectGUID": "{D98215DE-A67F-4B83-ABBB-EEF8009762FC}"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Acoes",
+    "variables": [
+    ],
+    "language": "Delphi",
+    "guid": "{404643DA-0A14-40F8-9514-6B5544C02022}",
+    "flows": [
+        {
+            "guid": "{93DF1EE9-F619-4AF2-9B58-19E3B927129D}",
+            "filePath": "Acoes\\Acoes.Acoes.Incluir Acao.fsf"
+        },
+        {
+            "guid": "{7EB23F0D-87BE-46A1-8FE2-F2D278E749EE}",
+            "filePath": "Acoes\\Acoes.Acoes.ObterListaAcoes.fsf"
+        }
+    ]
+}

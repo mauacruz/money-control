@@ -1,0 +1,59 @@
+{
+    "isPersistent": true,
+    "bounds": [
+        0,
+        0,
+        0,
+        0,
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            0
+        ]
+    ],
+    "entityType": "Entity",
+    "sourceLocation": "Project",
+    "selectStatement": "",
+    "isReadOnly": false,
+    "name": "TipoMovimento",
+    "sourceName": "",
+    "guid": "{E3AA4263-9512-4516-BBD9-CDF0FF5AE52E}",
+    "fields": [
+        {
+            "name": "codigo",
+            "dataType": "Integer_",
+            "size": 0,
+            "defaultValue": "",
+            "sourceName": "",
+            "isPrimaryKeyField": true,
+            "isReadOnly": false,
+            "isCollection": false,
+            "precision": 0,
+            "scale": 0,
+            "position": 1,
+            "generator": "",
+            "guid": "{AAC92D68-1648-4BF7-A9F7-B4C93D3E389F}"
+        },
+        {
+            "name": "descricao",
+            "dataType": "string_",
+            "size": 10,
+            "defaultValue": "",
+            "sourceName": "",
+            "isPrimaryKeyField": false,
+            "isReadOnly": false,
+            "isCollection": false,
+            "precision": 0,
+            "scale": 0,
+            "position": 2,
+            "generator": "",
+            "guid": "{D07205D7-11FB-4A00-A698-A11B17F46CC8}"
+        }
+    ],
+    "associations": [
+    ],
+    "datasource": "{AE73BA00-6AA6-4BA2-BDC0-4A1FFA7E39D9}"
+}
